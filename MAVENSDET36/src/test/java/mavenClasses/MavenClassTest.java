@@ -7,6 +7,7 @@ public class MavenClassTest {
 	@Test
 public void show() {
 	Reporter.log("hari");
+	//modified repository
 }
 	@Test
 	public void show1() {
